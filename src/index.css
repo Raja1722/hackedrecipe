@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background: url("Images/Illustration1.png"), url("Images/Illustration3.png");
+  background-color: #ffa200;
+}

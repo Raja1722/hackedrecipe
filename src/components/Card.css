@@ -1,0 +1,18 @@
+.cardheight {
+  height: 25rem;
+}
+.cardcolor {
+  background-color: rgb(243, 205, 149);
+  color: #012944;
+}
+.cardfont {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
